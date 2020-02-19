@@ -1,2 +1,2 @@
-# hackingwithswift_project1
-hackingwithswift project1
+# hackingwithswift
+hackingwithswift projects
