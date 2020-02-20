@@ -1,3 +1,3 @@
 # hackingwithswift
-hackingwithswift projects
+hackingwithswift projects\
 Swift and iOS projects for beginners.
